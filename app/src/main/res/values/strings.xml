@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_hint">Search city</string>
+    <string name="save_button">Save</string>
+    <string name="search_menu">Search</string>
+    <string name="main_menu">Main screen</string>
+</resources>
